@@ -8,4 +8,4 @@ https://code.daypilot.org/41760/using-javascript-html5-event-calendar-in-spring-
 
 https://code.daypilot.org/58614/using-javascript-html5-monthly-calendar-in-spring-boot-java
 
-OPEN SOURCE CODE see Licence!
+OPEN SOURCE CODE see License!
